@@ -115,9 +115,7 @@ and exploring AI applications on top of them.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naik1313-naik&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="assets/snake.svg" alt="Contribution snake" width="70%" />
-</p>
+
 
 ---
 
