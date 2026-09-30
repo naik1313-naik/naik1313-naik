@@ -100,16 +100,12 @@ and exploring AI applications on top of them.
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,vite,tailwind,threejs,nodejs,express,mysql,postgres,sqlite,python,flask,scikit-learn,docker,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,vite,tailwind,threejs,nodejs,express,mysql,postgres,sqlite,python,flask,docker,github" alt="Tech stack" />
 </p>
 
 ---
 
 ## 📊 The Numbers
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/22d3ee/naik1313-naik" alt="GitHub contribution grid" width="80%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naik1313-naik&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
