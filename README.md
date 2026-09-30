@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Sumeet Naik — Full-Stack · AI/ML · Creative Frontend" />
+  <img src="https://raw.githubusercontent.com/naik1313-naik/naik1313-naik/main/assets/banner.png" width="100%" alt="Sumeet Naik — Full-Stack · AI/ML · Creative Frontend" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td valign="top" width="200px" align="center">
-  <img src="assets/avatar.jpg" width="160" style="border-radius:50%" alt="Sumeet Naik" />
+  <img src="https://raw.githubusercontent.com/naik1313-naik/naik1313-naik/main/assets/avatar.jpg" width="160" style="border-radius:50%" alt="Sumeet Naik" />
 </td>
 <td valign="top">
 
